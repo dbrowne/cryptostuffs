@@ -1,0 +1,4 @@
+mock==2.0.0
+pybuilder==0.10.63
+flake8==2.5.0
+pyflakes==1.0.0

@@ -1,4 +1,4 @@
-# CRYPTOPALS SULUTIONS IN MULTIPLE LANGUAGES
+# CRYPTOPALS SOLUTIONS IN MULTIPLE LANGUAGES
 
 My solutions to the [cryptopals](https://cryptopals.com/) problems
 

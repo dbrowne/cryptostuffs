@@ -13,7 +13,7 @@ So what?
 + Java  -- Because I write in Java daily
 + Python 2.7 -- Because I write in Python 2.7 daily
 + Python 3   -- Becasue I do not write in Pyton 3
-+ Scala -- Why not need to do something different
++ Scala -- Why not?  Need to do something different
 
 ## Builders
 + Travis CI
